@@ -1,8 +1,12 @@
 # climate-change-news-api
 
-[live](https://rapidapi.com/yuxianxu-2YL6x61fpUR/api/climate-change-news94/)
+## [live](https://rapidapi.com/yuxianxu-2YL6x61fpUR/api/climate-change-news94/)
+
+## Screenshot
 
 ![climateapi](https://github.com/yuxianxu/climate-change-news-api/blob/main/climate-change-api.png)
+
+![climateapi](https://github.com/yuxianxu/climate-change-news-api/blob/main/climate-change-api-2.png)
 
 ## About
 
